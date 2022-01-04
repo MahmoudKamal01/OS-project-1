@@ -21,4 +21,17 @@ By doing these steps we have finished processing the code, now we go to the file
 # Test Cases
 
 *Test Case #1*
-<img src="https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/1.jpg" width="800" height="400" />
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/1.jpg)
+
+*Test Case #2*
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/2.jpg)
+
+*Test Case #3*
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/3.jpg)
+
+*Test Case #4*
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/4.jpg)
+
+*Test Case #5*
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/5.jpg)
+

@@ -21,4 +21,4 @@ By doing these steps we have finished processing the code, now we go to the file
 # Test Cases
 
 *Test Case #1*
-![test case:1](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/1.jpg)
+![test case:1](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/1.jpg =250x250) 

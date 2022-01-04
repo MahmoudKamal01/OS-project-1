@@ -19,3 +19,5 @@ after that we write a line to the terminal:
 By doing these steps we have finished processing the code, now we go to the file and check for the desired result.
 
 # Test Cases
+
+*Test Case #1*

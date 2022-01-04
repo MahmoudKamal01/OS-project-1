@@ -10,6 +10,7 @@ the tool will create a text file (file.z) contains the following:
 
 The text file that must be provided for the pc ("file.txt") contains the first line provided above. The tool objective is to update or create a file called (file.z) which is a compressed file contains the second line.
 
+note: put file.z in same folder with the wzip.c code source file
 ## Testing:
 In order to test the file we should open the folder terminal. Then, we write 
 `gcc -o wzip wzip.c -Wall -Werror`

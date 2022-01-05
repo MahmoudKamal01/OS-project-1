@@ -37,7 +37,7 @@ By doing these steps we have finished processing the code, now we go to the file
 `gcc -o wcat wcat.c -Wall -Werror`
 `./wcat wcat.c`
 #### contetnts of file will be printed in the termina, open it to check the result
-![](WCAT/test case 1.jpg)
+![]()
 
 
 

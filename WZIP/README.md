@@ -56,3 +56,6 @@ By doing these steps we have finished processing the code, now we go to the file
 #### file.z will be created, open it to check the result
 ![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/5.jpg)
 
+#### Full test Cases listed in the project description 
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/wzipppppp.PNG)
+

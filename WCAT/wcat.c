@@ -1,41 +1,36 @@
-#include <stdio.h>
-#include <stdlib.h>    
+#include <stdio.h> // for standard input and output- fgets, fclose, fopen
+#include <stdlib.h> // for exit
+#define BUFFER_SIZE 1000 //Buffer size=1000 characters
+ 
+int main (int argc, char *argv[]) // argc: number of arguments including first argument as file name itself
 
-int main(int argc, char *argv[])
 {
-FILE * fPtr;
+for (int i=1; i<argc;i++) // Loop to sequentially process each filepath passed and display it's content
+ {
+ FILE *filep = fopen(argv[i], "r");// open each file in Read mode with cursor at the beginning
+ if (filep == NULL) // if file path doesn't exit- exit
+  {
+      printf("wcat: cannot open file\n");
+      exit(1); // Exit with status code = 1 
+  }
 
-    char ch;
-
-
-    fPtr = fopen("file.txt", "r");
-
-
-    
-    if(fPtr == NULL)
-    {
-        
-        printf("Unable to open file.\n");
-        printf("Please check whether file exists and you have read privilege.\n");
-        exit(EXIT_FAILURE);
-    }
+ else // else read line by line and print it 
+  {
 
 
+  char buffer[BUFFER_SIZE]; //
+  fgets(buffer,BUFFER_SIZE,filep);
+// first is char * type, second is size, third should be FILE type pointer; 1 fgets outside loop ensure wcat not print previous buffer (last line) twice if passed with multiple files. 
    
-    printf("File opened successfully. Reading file contents character by character. \n\n");
+  while (!feof(filep)) // print till eof is reached - "\0"
+   {
+   
+   printf("%s", buffer);
+   fgets(buffer,BUFFER_SIZE,filep);
+   }
+  fclose(filep); // close that file
+  
 
-    do 
-    {
-        
-        ch = fgetc(fPtr);
-
-        putchar(ch);
-
-    } while(ch != EOF); 
-
-
-    fclose(fPtr);
-
-
-    return 0;
-}
+  }
+ }
+exit(0);

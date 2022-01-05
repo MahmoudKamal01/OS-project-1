@@ -28,7 +28,7 @@ By doing these steps we have finished processing the code, now we go to the file
 `./wzip file.z > file.txt`
 #### file.txt will be created, open it to check the result
 ![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/test1.PNG)
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/test1.PNG)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/tttest1.PNG)
 
 *Test Case #2*
 #### write : *SYSTEM* in file.txt and run the program by using the two commands:

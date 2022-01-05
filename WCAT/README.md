@@ -23,21 +23,21 @@ By doing these steps we have finished processing the code, now we go to the file
 `gcc -o wcat wcat.c -Wall -Werror`
 `./wcat wcat.c`
 #### contents of file will be printed in the terminal
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/1.jpg)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WCAT/test%20case%201.jpg)
 
 *Test Case #2*
 #### write : *OPERATING SYSTEM* in file.txt and run the program by using the two commands:
 `gcc -o wcat wcat.c -Wall -Werror`
 `./wcat wcat.c`
 #### contetnts of file will be printed in the terminal, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/2.jpg)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WCAT/test%20case%202.jpg)
 
 *Test Case #3*
 #### write : *TEAM PROJECT* in file.txt and run the program by using the two commands:
 `gcc -o wcat wcat.c -Wall -Werror`
 `./wcat wcat.c`
 #### contetnts of file will be printed in the termina, open it to check the result
-![]()
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WCAT/test%20case%203.jpg)
 
 
 

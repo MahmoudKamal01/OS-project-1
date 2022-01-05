@@ -23,11 +23,12 @@ By doing these steps we have finished processing the code, now we go to the file
 ## Test Cases
 
 *Test Case #1*
-#### write : *MMMMNS* in file.z and run the program by using the two commands:
+#### write : *5a7b6c4d3j* in file.z and run the program by using the two commands:
 `gcc -o wunzip wunzip.c -Wall -Werror`
 `./wzip file.z > file.txt`
 #### file.txt will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/1.jpg)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/test1.PNG)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/test1.PNG)
 
 *Test Case #2*
 #### write : *SYSTEM* in file.txt and run the program by using the two commands:

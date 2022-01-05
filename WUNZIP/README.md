@@ -35,26 +35,30 @@ By doing these steps we have finished processing the code, now we go to the file
 `gcc -o wunzip wunzip.c -Wall -Werror`
 `./wzip file.z > file.txt`
 #### file.txt will be created, open it to check the result
-![]()
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/tttest2.PNG)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/ttest2.PNG)
 
 *Test Case #3*
-#### write : *OOPPEERRAATTIINNGG* in file.txt and run the program by using the two commands:
-`gcc -o wzip wzip.c -Wall -Werror`
-`./wzip file.txt > file.z`
-#### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/3.jpg)
+#### write : *5r3t4e* in file.txt and run the program by using the two commands:
+`gcc -o wunzip wunzip.c -Wall -Werror`
+`./wzip file.z > file.txt`
+#### file.txt will be created, open it to check the result
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/test3.PNG)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/tttest3.PNG)
 
 *Test Case #4*
-#### write : *zzxxccfeaa* in file.txt and run the program by using the two commands:
-`gcc -o wzip wzip.c -Wall -Werror`
-`./wzip file.txt > file.z`
-#### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/4.jpg)
+#### write : *5f7x9o7b* in file.txt and run the program by using the two commands:
+`gcc -o wunzip wunzip.c -Wall -Werror`
+`./wzip file.z > file.txt`
+#### file.txt will be created, open it to check the result
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/test3.PNG)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/tttest3.PNG)
 
 *Test Case #5*
-#### write : *sssffcc* in file.txt and run the program by using the two commands:
-`gcc -o wzip wzip.c -Wall -Werror`
-`./wzip file.txt > file.z`
-#### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/5.jpg)
+#### write : *8i9y6t5g* in file.txt and run the program by using the two commands:
+`gcc -o wunzip wunzip.c -Wall -Werror`
+`./wzip file.z > file.txt`
+#### file.txt will be created, open it to check the result
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/tttest2.PNG)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/ttest2.PNG)
 

@@ -31,11 +31,11 @@ By doing these steps we have finished processing the code, now we go to the file
 ![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WUNZIP/tttest1.PNG)
 
 *Test Case #2*
-#### write : *SYSTEM* in file.txt and run the program by using the two commands:
-`gcc -o wzip wzip.c -Wall -Werror`
-`./wzip file.txt > file.z`
-#### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/2.jpg)
+#### write : *7Y5g8H7k* in file.txt and run the program by using the two commands:
+`gcc -o wunzip wunzip.c -Wall -Werror`
+`./wzip file.z > file.txt`
+#### file.txt will be created, open it to check the result
+![]()
 
 *Test Case #3*
 #### write : *OOPPEERRAATTIINNGG* in file.txt and run the program by using the two commands:

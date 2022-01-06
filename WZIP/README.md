@@ -57,5 +57,7 @@ By doing these steps we have finished processing the code, now we go to the file
 ![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WZIP/OS%20TEST%20CASES/5.jpg)
 
 #### Full test Cases listed in the project description 
+`gcc -o wzip wzip.c -Wall -Werror`
+`./test-wzip.sh`
 ![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WZIP/OS%20TEST%20CASES/wzipppppp.PNG)
 

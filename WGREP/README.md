@@ -35,14 +35,14 @@ By doing these steps we have finished processing the code, now we go to the file
 ## Test Cases
 
 *Test Case #1*
-#### write : *MMMMNS* in file.txt and run the program by using the two commands:
+
 `gcc -o wgrep wgrep.c -Wall -Werror`
 `./wgrep file.txt > file.z`
 #### file.z will be created, open it to check the result
 ![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WGREP/WhatsApp%20Image%202022-01-05%20at%2011.30.00%20PM.jpeg)
 
 *Test Case #2*
-#### write : *SYSTEM* in file.txt and run the program by using the two commands:
+
 `gcc -o wgrep wgrep.c -Wall -Werror`
 `./wzip file.txt > file.z`
 #### file.z will be created, open it to check the result

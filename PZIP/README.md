@@ -13,12 +13,9 @@ gcc -o pzip pzip.c -Wall -Werror -pthread -O
 
 ./test-pzip.sh
 
-By doing these steps we have finished processing the code, now we go to the file and check for the desired result.
+By doing these steps we have finished processing the code, now we go to the files and check for the desired result.
 
 ## Test Cases
-
-#### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WZIP/OS%20TEST%20CASES/5.jpg)
 
 #### Full test Cases listed in the project description 
 ![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/PZIP/parallelzip.PNG)

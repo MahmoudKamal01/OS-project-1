@@ -39,33 +39,14 @@ By doing these steps we have finished processing the code, now we go to the file
 `gcc -o wgrep wgrep.c -Wall -Werror`
 `./wgrep file.txt > file.z`
 #### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/1.jpg)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WGREP/WhatsApp%20Image%202022-01-05%20at%2011.30.00%20PM.jpeg)
 
 *Test Case #2*
 #### write : *SYSTEM* in file.txt and run the program by using the two commands:
 `gcc -o wgrep wgrep.c -Wall -Werror`
 `./wzip file.txt > file.z`
 #### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/2.jpg)
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WGREP/WhatsApp%20Image%202022-01-05%20at%2011.29.59%20PM.jpeg)
 
-*Test Case #3*
-#### write : *OOPPEERRAATTIINNGG* in file.txt and run the program by using the two commands:
-`gcc -o wzip wzip.c -Wall -Werror`
-`./wzip file.txt > file.z`
-#### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/3.jpg)
 
-*Test Case #4*
-#### write : *zzxxccfeaa* in file.txt and run the program by using the two commands:
-`gcc -o wzip wzip.c -Wall -Werror`
-`./wzip file.txt > file.z`
-#### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/4.jpg)
-
-*Test Case #5*
-#### write : *sssffcc* in file.txt and run the program by using the two commands:
-`gcc -o wzip wzip.c -Wall -Werror`
-`./wzip file.txt > file.z`
-#### file.z will be created, open it to check the result
-![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/ZIP/OS%20TEST%20CASES/5.jpg)
 

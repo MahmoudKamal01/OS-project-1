@@ -1,4 +1,4 @@
-# This repoistory contains c programs as solution to capstone project required in [OSTEP refernce](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-utilities) 
+# This repository contains c programs as a solution to the capstone project required in [OSTEP reference](https://github.com/remzi-arpacidusseau/ostep-projects/tree/master/initial-utilities) 
 Course "**Operating Systems**" 
 
 > Directories in this repoistory 

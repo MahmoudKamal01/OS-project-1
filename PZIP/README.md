@@ -9,12 +9,14 @@ the load equally because a producer is only required to create memory mapping fo
 ## Testing:
 In order to test the file we should open the folder terminal. Then, we run the file using these two commands:
 
-gcc -o pzip pzip.c -Wall -Werror -pthread -O
+`gcc -o pzip pzip.c -Wall -Werror -pthread -O`
 
-./test-pzip.sh
+`./test-pzip.sh`
 
 By doing these steps we have finished processing the code, now we go to the files and check for the desired result.
 
+#### Utility expression 
+`./wzip [FILES_NAME] > [zipfile]`
 ## Test Cases
 
 #### Full test Cases listed in the project description 

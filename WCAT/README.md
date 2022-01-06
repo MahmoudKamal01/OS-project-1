@@ -29,6 +29,8 @@ By doing these steps we have finished processing the code, now we go to the file
 #### write : *OPERATING SYSTEM* in file.txt and run the program by using the two commands:
 `gcc -o wcat wcat.c -Wall -Werror`
 `./wcat wcat.c`
+#### Utility expression 
+`./wcat [FILE_NAME]`
 #### contetnts of file will be printed in the terminal, open it to check the result
 ![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/WCAT/test%20case%202.jpg)
 

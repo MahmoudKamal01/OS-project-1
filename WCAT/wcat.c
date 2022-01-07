@@ -34,3 +34,4 @@ for (int i=1; i<argc;i++) // Loop to sequentially process each filepath passed a
   }
  }
 exit(0);
+}

@@ -22,3 +22,5 @@ By doing these steps we have finished processing the code, now we go to the file
 
 
 
+#### Comparison between performances of wzip and pzip
+![](https://github.com/MahmoudKamal01/OS-project-1/blob/main/PZIP/parallelzip.PNG)
